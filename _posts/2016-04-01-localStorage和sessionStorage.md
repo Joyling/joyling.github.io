@@ -1,13 +1,12 @@
 ---
 layout: post
-title:[【转】 localStorage和sessionStorage](http://blog.csdn.net/QDseashore/article/details/46799121)
+title: localStorage和sessionStorage
 categories:
 - html5
 tags:
 - html5
 ---
 
- 
 
 說明
 
