@@ -2,9 +2,9 @@
 layout: post
 title: localStorage和sessionStorage
 categories:
-- html5
+- HTML5
 tags:
-- html5
+- HTML5
 ---
 
 
