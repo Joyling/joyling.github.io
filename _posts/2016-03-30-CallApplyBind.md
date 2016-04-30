@@ -4,7 +4,7 @@ title: 【转】JS核心系列：浅谈 call apply 与 bind
 categories:
 - javascript
 tags:
-- javascript
+- javaScript
 ---
 
 转自[http://www.cnblogs.com/onepixel/p/5143863.html](http://www.cnblogs.com/onepixel/p/5143863.html)
