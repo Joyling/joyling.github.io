@@ -1,6 +1,0 @@
-
-permalink: /:year/:month/:title/
-url: http://joyling.github.io/
-author: Collin
-pygments: true
-paginate: 24
